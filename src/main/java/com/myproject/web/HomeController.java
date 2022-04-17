@@ -1,4 +1,4 @@
-package com.myportfolio.web;
+package com.myproject.web;
 
 import java.text.DateFormat;
 import java.util.Date;
